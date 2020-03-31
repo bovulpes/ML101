@@ -24,4 +24,17 @@ Text book: [Understanding Machine Learning - from theory to algorithms](https://
 
 7 Nov 2019: Random Forest presentation by Bogdan - [slides](https://drive.google.com/file/d/1a2CHLdYoU0LjESIRIiKorVtv5PZKzBAL/view?usp=sharing)
 
+### 31 Mar 2020: The ALICE Transition Radiation Detector (TRD), an exercise with beam test data
+
+Slides:
+
+https://drive.uca.fr/lib/6e9c185e-11ac-44d9-be4f-51b955a9a5ce/file/ALICE_TRD.pdf
+
+Notebook:
+
+https://github.com/bovulpes/ML101/tree/master/TRD
+
+Data:
+
+https://box.in2p3.fr/index.php/s/qoLssQFAqdt46w3
 
